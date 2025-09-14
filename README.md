@@ -3,6 +3,7 @@
 <p align="center">
     <a href="https://arxiv.org/abs/2508.10074"><img src="https://img.shields.io/badge/arXiv-2508.10074-b31b1b.svg"></a>
     <a href="https://huggingface.co/datasets/lurf21/NextEditPrediction"><img src="https://img.shields.io/badge/🤗-dataset-%23ff8811"></a>
+    <a href="https://github.com/lurf21/NextEditPrediction/blob/main/LICENSE"><img src="https://img.shields.io/github/license/lurf21/NextEditPrediction"></a>
 </p>
 
 ## About
@@ -98,7 +99,7 @@ WANDB_API_KEY=...
 
 ---
 ### Citation
-```
+```bibtex
 @misc{lu2025editpredictionlearningpredict,
       title={Next Edit Prediction: Learning to Predict Code Edits from Context and Interaction History}, 
       author={Ruofan Lu and Yintong Huo and Meng Zhang and Yichen Li and Michael R. Lyu},
